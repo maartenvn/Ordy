@@ -1,7 +1,7 @@
-# Project Software Engineering Lab 1
+# Ordy
+The new way of ordering food in groups!
+Ordy was written as project for the course Software Engineering Lab 1 2020 at the [University of Ghent](https://ugent.be)
 
-## Testrapport HCI workshop
-Een testrapport van de HCI workshop op 3 maart 2020 kan teruggevonden worden [op de wiki van deze GitHub Repository](https://github.ugent.be/SELab1/project1920-groep-1/wiki/Testrapport-HCI-workshop).
+## About
 
-## Android Project Setup
-Uitleg over hoe het project gestructureerd is, hoe de fetch API werkt en algemene guidelines. [Bekijk hier](https://github.ugent.be/SELab1/project1920-groep-1/wiki/%5BAndroid%5D-Project-setup-&-fetch-API)
+![Infographic Ordy](https://github.com/maartenvn/Ordy/raw/master/logos/infographic.jpg)
